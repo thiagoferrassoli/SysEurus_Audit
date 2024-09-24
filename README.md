@@ -24,6 +24,10 @@ Para baixar a última versão da aplicação, vá para a seção de [Releases](h
 
 ### Requisitos
 
+- **Usuário e senha padrão de acesso**: usuério: user / senha: 1234
+
+### Requisitos
+
 - **Sistema Operacional**: Android 7 ou superior.
 - **Dependências**:
   - .NET Framework 8.0 ou superior
